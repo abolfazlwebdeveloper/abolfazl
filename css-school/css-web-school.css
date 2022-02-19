@@ -1,0 +1,544 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    position: relative;
+}
+
+
+.content1{
+    background-image: url('../img-school/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    margin-top: 0px;
+    position: relative;
+    width: 100%;
+}
+.logo{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.register , .us , .log{
+ position: absolute;   
+ color: black;
+ font-family: 'Montserrat';
+ font-size: 18px;
+ left: 800px;
+ top: 20px;
+}
+.register{
+    left: 1100px;
+    top: 10px;
+}
+.log{
+    top: 10px;
+    left: 1000;
+}
+.us{
+    top: 10px;
+    left: 860px;
+}
+.h1-content1{
+    font-size: 60px;
+    position: absolute;
+    font-family: 'roboto';
+    color: #fff;
+    top: 190px;
+    left: 80px;
+}
+.h2-content1{
+    font-size: 40px;
+    color: #eb699e;
+    position: absolute;
+    font-family: 'roboto';
+    top: 280px;
+    left: 80px;
+}
+.content1 p{
+    position: absolute;
+    top: 390px;
+    left: 80px;
+    font-family: 'roboto';
+    color: #fff;
+}
+.ul-li-a{
+    position: absolute;
+    top: 560px;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    left: 120px;
+    border: #eb699e solid 2px;
+    padding: 20px 40px;
+    color: #eb699e;
+}
+.ul-li-a:hover{
+    background-color: #fff;
+    transition: 0.5s ease-in;
+}
+.img-man{
+    position: absolute;
+    width: 550px;
+    left: 750px;
+    top: 200px;
+}
+
+
+.content2{
+    height: 900px;
+    position: relative;
+    width: 100%;
+}
+.content2 h1{
+    font-family: 'Marmelad';
+    position: absolute;
+    left: 500px;
+    font-size: 40px;
+    top: 120px;
+}
+.content2 h2{
+    font-family: 'roboto';
+    font-size: 18px;
+    position: absolute;
+    left: 550px;
+    color: #eb699e;
+    top: 185px;
+}
+.box1{
+    width: 340px;
+    height: 300px;
+    position: relative;
+    top: 360px;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    left: 90px;
+}
+.box2{
+    position: absolute;
+    position: relative;
+    width: 340px;
+    height: 300px;
+    top: 360px;
+    left: 520px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+.box3{
+    position: absolute;
+    position: relative;
+    width: 340px;
+    height: 300px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    left: 950px;
+    top: 60px;
+}
+.icon1{
+    position: absolute;
+    left: 123px;
+    top: 60px;
+}
+.text1-content2-web{
+    position: absolute;
+    top: 130px;
+    left: 90px;
+    font-family: 'klee one';
+    font-size: 23px;
+}
+.sp1{
+    position: absolute;
+    left: 30px;
+}
+.one-a{
+    color: #eb699e;
+    border: #eb699e 2px solid;
+    position: absolute;
+    top: 720px;
+    font-size: 23px;
+    left: 560px;
+    padding: 20px 35px;
+}
+.one-a:hover{
+    background-color: black;
+    transition: 0.7s ease;
+}
+
+
+.content3{
+width: 100%;
+height: 640px;
+background-image: url('../img-school/disco.jpg');
+background-repeat: no-repeat;
+position: relative;
+background-size: cover;
+}
+.content3 h1{
+    font-family: 'Marmelad';
+    position: absolute;
+    top: 180px;
+    left: 110px;
+    color: #fff;
+    font-size: 48px;
+}
+.sp1-con3{
+    position: absolute;
+    left: 310px;
+    top: 55px;
+}
+.content3 h3{
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    position: absolute;
+    top: 350px;
+    left: 130px;
+}
+.sp2-con3{
+    left: 310px;
+    position: absolute;
+    top: 25px;
+}
+.to-a{
+    color: #eb699e;
+    border: #eb699e 2px solid;
+    position: absolute;
+    top: 500px;
+    font-size: 23px;
+    left: 560px;
+    padding: 20px 35px;
+}
+.to-a:hover{
+    background-color: #fff;
+    transition: 0.7s ease-out;
+}
+
+.content4{
+    height: 800px;
+    width: 100%;
+    position: relative;
+}
+.img-con4{
+    position: absolute;
+    top: 300px;
+    left: 0px;
+    left: 210px;
+}
+.content4 h1{
+    position: absolute;
+    color: black;
+    font-family: 'gugi';
+    left: 430px;
+    font-size: 40px;
+    top: 30px;
+}
+.content4 h3{
+    color: darkgrey;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    position: absolute;
+    top: 110px;
+    left: 300px;
+}
+.footer{
+    height: 600px;
+    width: 100%;
+    background-image: url('../img-school/cli.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.footer h1{
+    position: absolute;
+    font-family: 'Nunito';
+    color: #fff;
+    font-size: 48px;
+    top: 45px;
+    left: 420px;
+}
+.footer h3{
+    color: #fff;
+    font-family: 'Nunito';
+    position: absolute;
+    top: 150px;
+    font-size: 20px;
+    left: 140px;
+}
+.one-footer{
+    height: 250px;
+    width: 650px;
+    background-color: #fff;
+    position: relative;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+.one-footer h2{
+    color: darkgrey;
+    position: absolute;
+    left: 250px;
+    font-family: 'Montserrat';
+}
+.one-footer h4{
+    position: absolute;
+    top: 50px;
+    padding: 15px;
+    font-family: 'Quicksand';
+    font-size: 16px;
+}
+.br{
+    display: none;
+}
+.footer-end{
+    margin-top: 100px;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(13, 15, 12);
+}
+.footer-end h1{
+    font-family: 'roboto';
+    color: lightgray;
+    left: 400px;
+    top: 50px;
+    font-size: 45px;
+    position: absolute;
+}
+.footer-end h2{
+    position: absolute;
+    font-family: 'roboto';
+    color: #fff;
+    top: 120px;
+    left: 0;
+    left: 290px;
+    font-size: 45px;
+}
+.footer-end h3{
+    position: absolute;
+    font-family: 'roboto';
+    color: #fff;
+    top: 230px;
+    left: 200px;
+    font-size: 14px;
+    display: inline-block;
+    left: 300px;
+    
+}
+.footer-end span{
+    left: 70px;
+    position: absolute;
+}
+.abol{
+    border-radius: 40px;
+    background-color: #fff;
+    width: 600px;
+    position: absolute;
+    top: 400px;
+    outline: 0;
+    border: #fff solid 1px;
+    left: 300px;
+    height: 48px;
+}
+.abol::-webkit-input-placeholder{
+    font-family: 'Montserrat';
+    color: #888;
+    padding-left: 10px;
+    position: absolute;
+    left: 10px;
+    font-size: 20px;
+}
+
+
+            /*media qury*/
+
+            @media screen and (max-width:500px) {
+                body{
+                    height: 6000px;
+                    width: 70px;
+                }
+                
+                .h1-content1{
+                    font-size: 30px;
+                    left: 0px;
+                    top: 0px;
+                    left: 10px;
+                    top: 60px;
+                }
+                .h2-content1{
+                    font-size:25px;
+                    top: 0px;
+                    left: 0px;
+                    top: 111px; 
+                    left: 10px;                   
+                }
+                .content1 p{
+                    left: 0px;
+                    top: 0;
+                    font-size: 15px;
+                    padding: 20px;
+                    top:180px;
+                }
+                .content1{
+                    height: 980px;
+                    width: 490px;
+                }
+                .ul-li-a{
+                    left: 0px;
+                    top: 0;
+                    top: 350px;
+                    left: 30px;
+                }
+                .img-man{
+                    top: 0;
+                    left: 0px;
+                    left: 30px;
+                    width: 450px;
+                    top: 450;
+                }
+                .register , .us , .log{
+                    display: none;
+                }
+                .content2 h1{
+                    font-size: 35px;
+                    left: 0px;
+                    left: 80px;
+                    
+                }
+                .content2 h2{
+                     font-size: 14px;
+                     left: 0px;
+                     left: 130px;
+                }
+                .box1{
+                    left: 0;
+                    left: 50px;
+                }
+                 .footer-end{
+                    display: none;
+                }
+                .box2 , .box3{
+                    left: 0;
+                }
+                .box2{
+                    top: 700px;
+                    left: 50px;
+                }
+                .box3{
+                    top: 750px;
+                    left: 50px;
+                }
+                .one-a{
+                    top: 1400px;
+                    left: 140px;
+                }          
+                .content3{
+                 background-position: center;
+                  top: 800px;
+                  height: 800px;
+                  width: 500px;
+                 }
+                 .sp1-con3{
+                    font-size: 20px;
+                    left: 0px;
+                    top: 200px;
+                    }
+                 .content3 h1{
+                     font-size: 30px;
+                     left: 0;
+                     left: 30px;
+                    }
+                    .abolfazl-con3{
+                        margin-left: 30px;
+                        font-size: 22px;
+                        top: 60px;
+                    }
+                    .sp3-con3{
+                        font-size: 25px;                
+                        display: block;
+                        margin-left: 80px;
+                        margin-top: 10px;
+                        
+                    }
+                    .sp1-con3{
+                        top: 0;
+                        top: 70px;
+                        font-size: 35px;
+                        left: 50px;
+                        margin-left: 30px;
+                    }
+                    .content3 h3 , .sp2-con3{
+                        left: 0;
+                        font-size: 18px;
+                        padding: 12px;
+                    }
+                    .sp2-con3{
+                        left: 0;
+                        top: 66px;
+                    }
+                    .to-a{
+                        left: 0;
+                        left: 140px;
+                        top: 520px;
+                    }
+                    .img-con4{
+                        width: 450px;
+                        left: 0px;
+                        left: 15px;
+                    }
+                    .content4 h1{
+                        width: 400px;
+                        left: 0;
+                        left: 50px;
+                    }
+                    .content4 h3{
+                        width: 440px;
+                        margin-top: 30px;
+                        font-size: 15px;
+                        left: 0px;
+                        left: 20px;
+                        margin-right: 100px;
+                    }
+                    .content4{
+                        right: 100px;
+                         left: 0;
+                        top: 800px;
+                 }
+                 .sp1-con4{
+                     display: none;
+                 }
+                 .footer{
+                     background-position: right;
+                     height: 750px;
+                     top: 600px;
+                     width: 480px;
+                 }
+                 .footer h1{
+                     width: 300px;
+                     left: 0px;
+                     font-size: 30px;
+                     left: 100px;
+                 }
+                 .footer h3{
+                     top: 0px;
+                     left: 0px;
+                     left: 100px;
+                     top: 100px;
+                 }
+                 .one-footer{
+                     margin-left: 35px;
+                     top: 260px;
+                     left: 0px;
+                     width: 400px;
+                 }
+                 .one-footer h2{
+                     left: 0px;
+                     left: 140px;
+                 }
+                 .one-footer h4{
+                     font-size: 15px;
+                     top: 0px;
+                     top: 24px;
+                 }
+              }
